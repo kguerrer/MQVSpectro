@@ -1,5 +1,5 @@
 ## Multiply quantized vortex spectroscopy in a quantum fluid of light
-This repository contains the codes used to generate the figures of the article from the accompanying data. The datasets, together with the analysis scripts, are openly available on Zenodo [(link)](). To reproduce the figures, run all Python scripts from within the `data/` directory.
+This repository contains the codes used to generate the figures of the article from the accompanying data. The datasets, together with the analysis scripts, are openly available on Zenodo [(link)](https://zenodo.org/records/17699486). To reproduce the figures, run all Python scripts from within the `data/` directory.
    
 ### Codes:
 For Experiments:
